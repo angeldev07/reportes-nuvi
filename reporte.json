@@ -1,0 +1,4034 @@
+[
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 9035200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 9104000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 8332400.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 15100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 756500.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 68800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 11,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "A01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 12,
+            "nombre_cliente": "LINEY BARRERA",
+            "propiedad": "A02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 13,
+            "nombre_cliente": "CESAR FRANCO RUEDA",
+            "propiedad": "A03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 6886200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 6946200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 6272700.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 14,
+            "nombre_cliente": "ROMAN BAYONA JACOME",
+            "propiedad": "A04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 4470600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 4520100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 3964800.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 10900.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 544400.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 49500.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 15,
+            "nombre_cliente": "FERRETITO S.A.S.",
+            "propiedad": "A05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1834927.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1884427.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1329127.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 10900.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 544400.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 49500.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 16,
+            "nombre_cliente": "ENZO JULIAN TORRES",
+            "propiedad": "A06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 17,
+            "nombre_cliente": "ISABELLA CHACON H.",
+            "propiedad": "A07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 5422400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 5482400.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 4808900.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 18,
+            "nombre_cliente": "JESUS ALBERTO RAMIREZ M.",
+            "propiedad": "A08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 19,
+            "nombre_cliente": "ELECTROMUNDO S&L SAS",
+            "propiedad": "A09"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 110,
+            "nombre_cliente": "WILLIAM ANDRADE",
+            "propiedad": "A10"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 111,
+            "nombre_cliente": "INVERKING SSS SAS",
+            "propiedad": "A11"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 112,
+            "nombre_cliente": "ROCY IRENE BLANCO BECERRA",
+            "propiedad": "A12"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 594000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 654000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": -6300.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 113,
+            "nombre_cliente": "GLORIA AMPARO SANCHEZ BLANCO",
+            "propiedad": "A13"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1273800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1333800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 114,
+            "nombre_cliente": "ISABEL VERGEL",
+            "propiedad": "A14"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 115,
+            "nombre_cliente": "JAIME BARAJAS LEON",
+            "propiedad": "A15"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 116,
+            "nombre_cliente": "JOSE WILSON AMAYA",
+            "propiedad": "A16"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 117,
+            "nombre_cliente": "FRANCISCO JAVIER TORRES ",
+            "propiedad": "A17"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 118,
+            "nombre_cliente": "REINALDO ROJAS ",
+            "propiedad": "A18"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 600300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 660300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 660300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 119,
+            "nombre_cliente": "JAIR OLARTE",
+            "propiedad": "A19"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1841900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1928700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 21,
+            "nombre_cliente": "JENNY JOHANNA GALLO CASTELLANOS",
+            "propiedad": "B01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 22,
+            "nombre_cliente": "MARIBEL GARCIA",
+            "propiedad": "B02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 23,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "B03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 5737500.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 5824300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 4850400.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 24,
+            "nombre_cliente": "TRANSIVIC SAS",
+            "propiedad": "B04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 7840700.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 7927500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 6953600.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 25,
+            "nombre_cliente": "ROMAN BAYONA JACOME",
+            "propiedad": "B05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 26,
+            "nombre_cliente": "MANUEL MOROS",
+            "propiedad": "B06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 867900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": -100.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 27,
+            "nombre_cliente": "JOSE URIBE",
+            "propiedad": "B07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 12759590.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 12846390.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 11872490.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 28,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "B08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 29,
+            "nombre_cliente": "VICTOR ANTONILINES AYALA",
+            "propiedad": "B09"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 210,
+            "nombre_cliente": "WILSON AMAYA",
+            "propiedad": "B10"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 211,
+            "nombre_cliente": "JAIME ENRIQUE SANCHEZ RAMON",
+            "propiedad": "B11"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1049100.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1136200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 178300.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 31,
+            "nombre_cliente": " JESUS DAVID MAYORGA AYALA",
+            "propiedad": "C01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1847900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1935000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 32,
+            "nombre_cliente": "WILLIAM TARAZONA",
+            "propiedad": "C02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 870800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 957900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 33,
+            "nombre_cliente": "REINALDO ROJAS",
+            "propiedad": "C03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 3537200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 3624300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 2647200.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 34,
+            "nombre_cliente": "WILSON BAYONA JACOME",
+            "propiedad": "C04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 4692100.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 4779200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 3802100.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 35,
+            "nombre_cliente": "MARIA CAMILA  BAYONA",
+            "propiedad": "C05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 870800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 957900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 36,
+            "nombre_cliente": "MAIRA ALEJANDRA BERNAL",
+            "propiedad": "C06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1867100.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1954200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 977100.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19200.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 957900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 87100.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 37,
+            "nombre_cliente": "LUIS GUEVARA",
+            "propiedad": "C07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 745500.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 820100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 820100.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 74600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 41,
+            "nombre_cliente": "LIZARDO ANTONIO AMAYA DIAZ",
+            "propiedad": "D01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 42,
+            "nombre_cliente": "LIZARDO ANTONIO AMAYA DIAZ",
+            "propiedad": "D02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 43,
+            "nombre_cliente": "SONIA CASTRO",
+            "propiedad": "D03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2912200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2978900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 2230500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14700.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 44,
+            "nombre_cliente": "NILSA CASTELLANOS RIVERA",
+            "propiedad": "D04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": -66700.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 0.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": -733700.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 45,
+            "nombre_cliente": "YURACID ALVAREZ AREVALO",
+            "propiedad": "D05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 6025200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 6091900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 5343500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14700.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 46,
+            "nombre_cliente": "IVAN ENRIQUE CASTIBLANCO GOMEZ",
+            "propiedad": "D06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 47,
+            "nombre_cliente": "VIVIAN ANDREA FERN\u00c1NDEZ ANDRADE",
+            "propiedad": "D07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2163800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2230500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1482100.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14700.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 48,
+            "nombre_cliente": "SANDRA PATRICIA DIAZ OCAMPO",
+            "propiedad": "D08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 49,
+            "nombre_cliente": "FABIO MEJIA REYES",
+            "propiedad": "D09"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 410,
+            "nombre_cliente": "ZULMA GUZMAN DAZA",
+            "propiedad": "D10"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 667000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 733700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 733700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 411,
+            "nombre_cliente": " NESTOR JOSE PUERTO PATI\u00d1O",
+            "propiedad": "D11"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 3653300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 3719900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 2973000.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14600.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 732300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 412,
+            "nombre_cliente": "CRISTOPHER MANTILLA QUINTERO",
+            "propiedad": "D12"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 15078100.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 15144100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 14404100.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 725500.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 413,
+            "nombre_cliente": "CRISTOPHER MANTILLA QUINTERO",
+            "propiedad": "D13"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 614000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 675400.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 675400.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 61400.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 414,
+            "nombre_cliente": "NATALIA NOGUERA",
+            "propiedad": "D14"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 614000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 675400.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 675400.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 61400.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 415,
+            "nombre_cliente": "MARIA BELEN PE\u00d1ARANDA",
+            "propiedad": "D15"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 3746300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 3807700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 3118800.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 675400.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 61400.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 416,
+            "nombre_cliente": "WAEL MUSTAFA SOLET",
+            "propiedad": "D16"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2815800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2902600.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1928700.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 51,
+            "nombre_cliente": "EMAD MUSTAFAT SALETH ATTALAH",
+            "propiedad": "E01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 52,
+            "nombre_cliente": "MARIELA LINDARTE URIBE",
+            "propiedad": "E02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 53,
+            "nombre_cliente": "ANGELICA MARIA MENESES",
+            "propiedad": "E03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 7840700.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 7927500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 6953600.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 54,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "E04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2361000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2447800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1473900.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 55,
+            "nombre_cliente": "JESUS EDGARDO VERGEL LOPEZ ",
+            "propiedad": "E05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1857300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1944100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 970200.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 56,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "E06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 868000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 954800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 57,
+            "nombre_cliente": "IVAN ALFREDO RAMIREZ H.",
+            "propiedad": "E07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1841900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1928700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 954800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 86800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 58,
+            "nombre_cliente": "OMAR SANDOVAL FLOREZ",
+            "propiedad": "E08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 674600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 742100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 742100.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 67500.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 61,
+            "nombre_cliente": "FERNANDO ALBERTO CIANCI",
+            "propiedad": "F01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 665700.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 732300.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 732300.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 66600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 62,
+            "nombre_cliente": "JOSE FRANCISCO SOLORZANO GUTIERREZ",
+            "propiedad": "F02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1389300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1454800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 720200.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14400.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 720200.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 65500.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 63,
+            "nombre_cliente": "GUILLERMO ANTONIO MENESES PEREZ",
+            "propiedad": "F03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 642900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 707200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 707200.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 64300.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 64,
+            "nombre_cliente": "JAIME ENRIQUE SANCHEZ RAMON",
+            "propiedad": "F04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 637400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 701100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 701100.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 63700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 65,
+            "nombre_cliente": "NATALI ANDREA GIL COCA",
+            "propiedad": "F05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 639500.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 703500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 703500.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 64000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 66,
+            "nombre_cliente": "NELSON POSADA PE\u00d1ARANDA",
+            "propiedad": "F06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1357100.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1421100.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 703500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 703500.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 64000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 67,
+            "nombre_cliente": "JOSE FRANCISCO SOLORZANO GUTIERREZ",
+            "propiedad": "F07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 640200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 704200.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 704200.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 64000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 68,
+            "nombre_cliente": "ADOLFO YAMIL MATAMOROS IBARRA",
+            "propiedad": "F08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 27109684.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 27173584.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 26456784.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14100.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 702700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 63900.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 69,
+            "nombre_cliente": "JAIME ENRIQUE SANCHEZ RAMON",
+            "propiedad": "F09"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1348300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1411800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 698900.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 14000.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 698900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 63500.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 610,
+            "nombre_cliente": "JOSE LUIS ARENAS JAIMES",
+            "propiedad": "F10"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 652600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 717900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 717900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 65300.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 611,
+            "nombre_cliente": "WILSON BAYONA JACOME",
+            "propiedad": "F11"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 624400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 686800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 686800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62400.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 612,
+            "nombre_cliente": "NILSA CASTELLANOS RIVERA",
+            "propiedad": "F12"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 613,
+            "nombre_cliente": "GILDARDO LEIVA MOTTA",
+            "propiedad": "F13"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 688800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": -200.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 614,
+            "nombre_cliente": "MARY FABIANA LEAL GARAY / ALMANURY PEREZ CONTRERAS",
+            "propiedad": "F14"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 615,
+            "nombre_cliente": "EMAD MUSTAFAT SALETH ATTALAH",
+            "propiedad": "F15"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2032000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2094600.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1391800.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13800.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 616,
+            "nombre_cliente": "PROMOTORA DE DESARROLLO DE INFRAEST",
+            "propiedad": "F16"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 617,
+            "nombre_cliente": "JOSE FRANCISCO SOLORZANO GUTIERREZ",
+            "propiedad": "F17"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 618,
+            "nombre_cliente": "JOSE FRANCISCO SOLORZANO GUTIERREZ",
+            "propiedad": "F18"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 619,
+            "nombre_cliente": "GLORIA ISABEL MARTINEZ",
+            "propiedad": "F19"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 626400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 689000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 689000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 620,
+            "nombre_cliente": "ANA MILENA HERNANDEZ/CARLOS GALEZO",
+            "propiedad": "F20"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 621600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 683800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 683800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 62200.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 621,
+            "nombre_cliente": "YANET CARVAJAL/ALVARO ORDO\u00d1EZ",
+            "propiedad": "F21"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1307400.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1369000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 677700.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13600.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 677700.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 61600.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 622,
+            "nombre_cliente": "ORGANIZACI\u00d3N HERRERA DEL ORIENTE SAS",
+            "propiedad": "F22"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 609900.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 670900.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 670900.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 61000.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 623,
+            "nombre_cliente": " CONST. E INMOB. OSMAN TORRES SAS",
+            "propiedad": "F23"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1960600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2021000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1342900.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 13300.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 664800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60400.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 624,
+            "nombre_cliente": "JAIME SANCHEZ R.",
+            "propiedad": "F24"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 598200.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 658000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 658000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 59800.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 625,
+            "nombre_cliente": "JAIME SANCHEZ R.",
+            "propiedad": "F25"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 601600.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 661800.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 661800.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 60200.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 626,
+            "nombre_cliente": " MILENA HERNANDEZ / CARLOS GALEZO",
+            "propiedad": "F26"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1882800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1971500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 71,
+            "nombre_cliente": "PROMOTORA ROANCA SAS",
+            "propiedad": "G01"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 9508300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 9597000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 8601500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 72,
+            "nombre_cliente": "CARMEN ANYUL CASTELLANOS RIVERA",
+            "propiedad": "G02"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2878300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2967000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1971500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 73,
+            "nombre_cliente": "MARAM MUSTAFAT SALETH ATTALAH",
+            "propiedad": "G03"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 887300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 976000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 74,
+            "nombre_cliente": "NILSA CASTELLANOS RIVERA",
+            "propiedad": "G04"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 2878300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 2967000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 1971500.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 75,
+            "nombre_cliente": "KARAM MUSTAFAT SALETH ATTALAH",
+            "propiedad": "G05"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 5864800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 5953500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 4958000.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 76,
+            "nombre_cliente": "GISELA FUENTES",
+            "propiedad": "G06"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 17388000.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 17476700.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 16481200.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 77,
+            "nombre_cliente": "CLAUDIA SOLANO",
+            "propiedad": "G07"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 1882800.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 1971500.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 19500.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 78,
+            "nombre_cliente": "FRANCISCO JAVIER CAICEDO RAMIREZ",
+            "propiedad": "G08"
+        }
+    },
+    {
+        "periodo": 10,
+        "prontoPago": {
+            "total": 887300.0,
+            "fecha": "2024-10-15T00:00:00"
+        },
+        "despuesPago": {
+            "total": 976000.0,
+            "fecha": "2024-10-31T00:00:00"
+        },
+        "conceptos": [
+            {
+                "descripcion": "SALDO ANTERIOR",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "INTERESES MORA 2%",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "CUOTA ADMINISTRACION",
+                "valorTotal": 976000.0
+            },
+            {
+                "descripcion": "(-) DSCTO PRONTO PAGO HASTA EL 15",
+                "valorTotal": 88700.0
+            },
+            {
+                "descripcion": "USO SALON SOCIAL",
+                "valorTotal": 0.0
+            },
+            {
+                "descripcion": "OTROS",
+                "valorTotal": 0.0
+            }
+        ],
+        "cliente": {
+            "id": 79,
+            "nombre_cliente": "IVAN ENRIQUE CASTIBLANCO GOMEZ",
+            "propiedad": "G09"
+        }
+    }
+]
