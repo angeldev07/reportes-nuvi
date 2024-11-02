@@ -61,6 +61,8 @@ class BillReportUtil:
 
     CONCEPTS_COLS = {"CONCEPTS": "CONCEPTOS", "EARLY_PAY": "PRONTO PAGO"}
 
+    PAY_TOTALS_COLS = {"EARLY_PAY": "PRONTO PAGO", "TOTAL_PAYS": "TOTAL"}
+
     def __init__(self, file=None):
         self.excel_value: DataFrame = None
         self.excel_cp: datetime = None
@@ -122,7 +124,9 @@ class BillReportUtil:
 
     def getIndexConcepts(self, col_tuple):
         i, col = col_tuple
-        if isinstance(col, str) and col.strip().upper() in list(self.CONCEPTS_COLS.values()):
+        if isinstance(col, str) and col.strip().upper() in list(
+            self.CONCEPTS_COLS.values()
+        ):
             return i
         return None
 
@@ -138,46 +142,31 @@ class BillReportUtil:
 
         concepts = self.excel_value.iloc[:, concetpsindex[0] : concetpsindex[1]]
         conceptsnames = concepts.loc[0].values
-        concepts =  concepts.drop([0])
-        
-        # concepts response 
+        concepts = concepts.drop([0])
+        payTotal = self.excel_value[list(self.PAY_TOTALS_COLS.values())].drop([0])
+        paysDates = self.excel_value[list(self.PAY_TOTALS_COLS.values())].loc[0]
+
+        # concepts response
         report: List[Bill] = []
 
-
-        for  (conceptname), (_, concept_row), (_, house_row) in zip(
-            conceptsnames, concepts.iterrows(), houses.iterrows()
+        for (_, concept_row), (_, house_row), (_, pays) in zip(
+            concepts.iterrows(), houses.iterrows(), payTotal.iterrows()
         ):
-            print('concepto:',conceptname)
-            print('conceptos', concept_row.values)
-            print('casa', house_row.values)
-            print("p----------------------------------------------------p")
-            pass
-            # billconcepts: List[BillConcepts] = []
-            # for descripcion, valor in concept_row.items():
-            #     if pd.notna(valor):
-            #         valor_float = float(valor) if pd.notna(valor) else 0
-            #         billconcepts.append(BillConcepts(descripcion, valor_float))
+            billconcepts: List[BillConcepts] = []
+            for conceptDescription, value in zip(conceptsnames, concept_row.values):
+                billconcepts.append(BillConcepts(conceptDescription, value))
 
-            # despues_pago = float(pay_row.iloc[0]) if pd.notna(pay_row.iloc[0]) else 0
-            # pronto_pago = (
-            #     float(pay_row.iloc[1])
-            #     if len(pay_row) > 1 and pd.notna(pay_row.iloc[1])
-            #     else 0
-            # )
-            # lote, housesInfo = house_row.get("CASA/LT"), house_row.get(
-            #     "NOMBRES Y APELLIDOS"
-            # )
-
-            # report.append(
-            #     Bill(
-            #         periodo=period[1],
-            #         conceptos=billconcepts,
-            #         prontoPago=BillPayInfo(pronto_pago, dates[0]),
-            #         despuesPago=BillPayInfo(despues_pago, dates[1]),
-            #         propietario=HouseReport.buildhouseobjE(
-            #             housesInfo.split("-"), lote
-            #         ).cliente,
-            #     )
-            # )
+            report.append(
+                Bill(
+                    periodo="",
+                    conceptos=billconcepts,
+                    prontoPago=BillPayInfo(pays.values[0], paysDates[0]),
+                    despuesPago=BillPayInfo(pays.values[1], paysDates[1]),
+                    propietario=HouseReport.buildhouseobjE(
+                        house_row.get(self.HOUSES_COLS["OWNER"]).split("-"),
+                        house_row.get(self.HOUSES_COLS["HOUSE_NUMBER"]),
+                    ).cliente,
+                )
+            )
 
         return report

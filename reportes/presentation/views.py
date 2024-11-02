@@ -5,6 +5,7 @@ from rest_framework.response import Response
 from rest_framework.request import Request
 from reportes.application.use_cases.generar_factura import GenerarFactura
 from reportes.infraestructure.mappers.reports import BillReportUtil
+from .serializers import BillSerializer
 
 
 class GenerarFacturaView(APIView):
@@ -18,11 +19,15 @@ class GenerarFacturaView(APIView):
             archivo_excel = request.FILES["report"]
 
             if archivo_excel is None:
-                return Response({"error": 'No se ha proporcionado ningun archivo para obtener las facturacion.'}, status=400)
+                return Response(
+                    {
+                        "error": "No se ha proporcionado ningun archivo para obtener las facturacion."
+                    },
+                    status=400,
+                )
 
-            res  = self.report.ejecutar(archivo_excel)
-
-            return Response({"facturas": "good"})
+            res = self.report.ejecutar(archivo_excel)
+            serializer = BillSerializer(res, many=True)
+            return Response({"facturas": serializer.data})
         except Exception as e:
-            e.with_traceback()
             return Response({"error": str(e)}, status=500)
